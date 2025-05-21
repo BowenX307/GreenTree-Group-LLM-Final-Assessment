@@ -1,6 +1,6 @@
 # GreenTree-Group-LLM-Final-Assessment
 
-# Employee Sentiment & Engagement Analysis
+## Employee Sentiment & Engagement Analysis
 This project analyzes employee communication data to assess sentiment trends, detect disengagement risk, and predict emotional patterns over time using natural language processing (NLP) and statistical modeling.
 
 ## Project Overview
@@ -18,7 +18,9 @@ Using a dataset of internal employee messages, we perform:
    pip install pandas matplotlib seaborn scikit-learn
 2. Run sentiment labeling and cleaning:
    python sentiment_labeling.py
-3. Run predictive modeling：
+   ```bash
+4. Run predictive modeling：
+   ```bash
    python task6_predictive_modeling.py
 ## Methodology
 
